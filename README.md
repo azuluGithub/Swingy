@@ -58,10 +58,8 @@
 	- When starting the game, your program will load the heroes from this file
   
 # COMMANDS ARE RUN ON FOLDER WITH POM.XML FILE:
-	-mvn clean package
-	-java -jar swingy.jar console
-          OR
-	-java -jar swingy.jar gui
+	> mvn clean package
+	> java -jar swingy.jar console OR java -jar swingy.jar gui
   
 # MY PROJECT RESOURCES:
 	- Web Pages:
